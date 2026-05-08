@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Halasri 👋
 
-<!--
-**halasri-ai/halasri-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on building:
 
-Here are some ideas to get you started:
+- LLM Applications
+- AI Workflow Automation
+- Enterprise AI Tools
+- Streamlit Applications
+- AWS Deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Tech Stack
+
+## Languages
+- Python
+- SQL
+- JavaScript
+
+## Frameworks & Tools
+- Streamlit
+- FastAPI
+- Flask
+- - GitHub Actions
+
+## AI/ML
+- OpenAI APIs
+- Embeddings
+- RAG Systems
+- NLP
+
+## Cloud & Database
+- AWS
+- PostgreSQL
+- S3
+- EC2
+
+---
+
+# Featured Projects
+
+## AI Excel Header Mapping System
+Enterprise-grade AI platform for intelligent spreadsheet schema mapping with reusable approved mappings.
+
+## AI Meeting Automation
+Automated transcription, summarization, and action item extraction workflow.
+
+## GitHub Automation
+Automated GitHub workflow and repository management system.
+
+## Hospital Workflow Analytics
+Hospital discharge workflow analytics and reporting demo.
+
+---
+# Current Focus
+
+- Enterprise AI Systems
+- AI Agents
+- Workflow Automation
+- RAG Architecture
+- AI Integrations
+
+---
+
+# Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/halasri14/
